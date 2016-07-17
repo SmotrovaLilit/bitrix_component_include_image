@@ -14,7 +14,7 @@ $APPLICATION->IncludeComponent(
 	"", 
 	array(
 		"FILE_SRC" => "/static/i/bg_0.jpg",
-		"COMPONENT_TEMPLATE" => "promo.block.background"
+		"COMPONENT_TEMPLATE" => ""
 	),
 	false
 );
