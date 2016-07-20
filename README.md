@@ -6,9 +6,7 @@
 
 
 
-```
-#!php
-
+```php
 $APPLICATION->IncludeComponent(
 	"ws:include.file", 
 	"", 
